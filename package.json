@@ -1,0 +1,12 @@
+{
+  "name": "backend-lab-1",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals - Lab 01",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node lab-01/app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
