@@ -1,7 +1,4 @@
-/**
- * Automated test script for BDF Lab 01 Express Server
- * Uses built-in fetch to verify routes and HTTP status codes.
- */
+
 
 const BASE_URL = "http://localhost:3000";
 
@@ -41,3 +38,4 @@ async function runTests() {
 }
 
 runTests();
+
